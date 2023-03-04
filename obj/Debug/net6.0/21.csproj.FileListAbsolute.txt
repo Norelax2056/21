@@ -1,0 +1,16 @@
+C:\Users\Norelax\Desktop\Seminarr3\21\bin\Debug\net6.0\21.exe
+C:\Users\Norelax\Desktop\Seminarr3\21\bin\Debug\net6.0\21.deps.json
+C:\Users\Norelax\Desktop\Seminarr3\21\bin\Debug\net6.0\21.runtimeconfig.json
+C:\Users\Norelax\Desktop\Seminarr3\21\bin\Debug\net6.0\21.dll
+C:\Users\Norelax\Desktop\Seminarr3\21\bin\Debug\net6.0\ref\21.dll
+C:\Users\Norelax\Desktop\Seminarr3\21\bin\Debug\net6.0\21.pdb
+C:\Users\Norelax\Desktop\Seminarr3\21\obj\Debug\net6.0\21.GlobalUsings.g.cs
+C:\Users\Norelax\Desktop\Seminarr3\21\obj\Debug\net6.0\21.csproj.AssemblyReference.cache
+C:\Users\Norelax\Desktop\Seminarr3\21\obj\Debug\net6.0\21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norelax\Desktop\Seminarr3\21\obj\Debug\net6.0\21.AssemblyInfoInputs.cache
+C:\Users\Norelax\Desktop\Seminarr3\21\obj\Debug\net6.0\21.AssemblyInfo.cs
+C:\Users\Norelax\Desktop\Seminarr3\21\obj\Debug\net6.0\21.csproj.CoreCompileInputs.cache
+C:\Users\Norelax\Desktop\Seminarr3\21\obj\Debug\net6.0\21.dll
+C:\Users\Norelax\Desktop\Seminarr3\21\obj\Debug\net6.0\ref\21.dll
+C:\Users\Norelax\Desktop\Seminarr3\21\obj\Debug\net6.0\21.pdb
+C:\Users\Norelax\Desktop\Seminarr3\21\obj\Debug\net6.0\21.genruntimeconfig.cache
